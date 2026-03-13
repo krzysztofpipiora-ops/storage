@@ -3,5 +3,8 @@ version: 1.0
 main: pl.twojanazwa.Main
 api-version: 1.20
 commands:
+  zrzut:
+    description: Komenda do zrzutów (użyj /zrzut spawn)
+    aliases: [zrzuty]
   schowek:
     description: Otwiera menu schowka i depozytu
